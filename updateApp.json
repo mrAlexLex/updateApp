@@ -3,8 +3,6 @@
   "latestVersionCode": "2",
   "url": "https://github.com/mrAlexLex/updateApp/releases",
   "releaseNotes": [
-    "- First evolution",
-    "- Second evolution",
-    "- Bug fixes"
+    "- Create update process"
   ]
 }
